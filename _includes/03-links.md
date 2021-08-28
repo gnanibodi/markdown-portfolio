@@ -1,1 +1,1 @@
-github.com/gnanibodi
+[github]github.com/gnanibodi
